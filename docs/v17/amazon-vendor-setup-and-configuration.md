@@ -8,8 +8,7 @@
 <br/>
 
 <div align="center">
-
-![](./images/VC-1.png)
+  <img src="./images/VC-1.png" alt="Amazon Vendor Central Settings">
 </div>
 
 <br/>
