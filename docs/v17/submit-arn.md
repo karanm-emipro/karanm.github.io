@@ -1,4 +1,4 @@
-# <h1 align="center"> Submit ARN </h1>
+<h1 align="center"><strong>  Submit ARN </strong></h1>
 
 The Submit ARN operation is designed for Collect or WePay vendors to submit requests for the pickup of their shipments by Amazon.
 
@@ -13,7 +13,7 @@ The Submit ARN operation is designed for Collect or WePay vendors to submit requ
 
 <div align="center">
 
-![import-or-map-product](./images/VC-17.png)
+![](./images/VC-17.png)
 </div>
 
 <br/>

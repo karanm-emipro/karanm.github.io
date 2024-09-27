@@ -1,4 +1,4 @@
-# <h1 align="center"> Connect Your Vendor Central Account </h1>
+<h1 align="center"><strong>  Connect Your Vendor Central Account </strong></h1>
 
 #### As per Amazon’s [Acceptable Use Policy](https://docs.developer.amazonservices.com/en_US/dev_guide/DG_AcceptableUsePolicy.html) and [Data Protection Policy](https://docs.developer.amazonservices.com/en_US/dev_guide/DG_DataProtectionPolicy.html), the seller has to authorize Emipro’s Seller Application in their Seller Central account.
 
@@ -9,7 +9,7 @@
 
 <div align="center">
 
-![connect-vendor-central-account](./images/VC-4.png)
+![](./images/VC-4.png)
 </div>
 
 <br/>
@@ -20,7 +20,7 @@
 
 <div align="center">
 
-![connect-vendor-central-account-form](./images/VC-5.png)
+![](./images/VC-5.png)
 </div>
 
 <br/>

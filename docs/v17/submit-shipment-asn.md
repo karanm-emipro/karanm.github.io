@@ -1,4 +1,4 @@
-# <h1 align="center"> Submit Shipment ASN </h1>
+<h1 align="center"><strong>  Submit Shipment ASN </strong></h1>
 
 You can use the **Submit ASN** operation to submit shipment confirmations to Amazon.
 
@@ -14,7 +14,7 @@ You can use the **Submit ASN** operation to submit shipment confirmations to Ama
 
 <div align="center">
 
-![import-or-map-product](./images/VC-18.png)
+![](./images/VC-18.png)
 </div>
 
 <br/>

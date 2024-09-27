@@ -1,5 +1,3 @@
-# 
-
 <h1 align="center"><strong> Amazon Vendor Setup and Configuration </strong></h1>
 
 
@@ -11,12 +9,7 @@
 
 <div align="center">
 
-![vendor-central-config](./images/VC-1.png)
+![](./images/VC-1.png)
 </div>
 
 <br/>
-
-#### TABLE OF CONTENTS
-
-* Register Your Vendor ID
-* Connect Your Vendor Central Account

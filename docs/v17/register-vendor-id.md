@@ -1,4 +1,4 @@
-# <h1 align="center"> Register Your Vendor ID </h1>
+<h1 align="center"><strong>  Register Your Vendor ID </strong></h1>
 
 #### As per Amazon’s [Acceptable Use Policy](https://docs.developer.amazonservices.com/en_US/dev_guide/DG_AcceptableUsePolicy.html) and [Data Protection Policy](https://docs.developer.amazonservices.com/en_US/dev_guide/DG_DataProtectionPolicy.html), the seller has to authorize Emipro’s Seller Application in their Seller Central account.
 
@@ -9,7 +9,7 @@
 
 <div align="center">
 
-![vendor-central-register-vendor-id](./images/VC-2.png)
+![](./images/VC-2.png)
 </div>
 
 <br/>
@@ -20,7 +20,7 @@
 
 <div align="center">
 
-![vendor-central-registration-form](./images/VC-3.png)
+![](./images/VC-3.png)
 </div>
 
 <br/>
