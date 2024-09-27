@@ -6,17 +6,9 @@
 
 <br/>
 
-With the help of the scheduler, the operation will automatically be performed in accordance with the time intervals configured by the system.
-
-* It can be hours, days or months.
-* You can configure scheduler Vendor wise
-* Navigate to **Vendor Central ↣ Configuration ↣ Instance**
-
-<br/>
-
-<div align="center">
-  <img src="./images/VC-6.png" alt="">
-</div>
+With the help of the scheduler, the operation will automatically be performed in accordance with the time intervals configured by the system.</br>
+It can be hours, days or months. </br>
+You can configure scheduler Vendor wise
 
 <br/>
 
@@ -25,6 +17,12 @@ You can set the following schedulers with the help of this connector to automate
 * Navigate to **Vendor Central ↣ Configuration ↣ Instance**
 * Click on the Instance
 * Click on the Configure Schedulers Button
+
+<br/>
+
+<div align="center">
+  <img src="./images/VC-6.png" alt="">
+</div>
 
 <br/>
 

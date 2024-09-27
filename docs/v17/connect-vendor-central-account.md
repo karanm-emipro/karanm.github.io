@@ -6,8 +6,8 @@
 
 <br/>
 
-* **Go to Vendor Central ↣ Configuration ↣ Settings**
-* **Click on Connect Your Vendor Central Account**
+* Go to **Vendor Central ↣ Configuration ↣ Settings**
+* Click on **Connect Your Vendor Central Account**
 
 <br/>
 
@@ -17,7 +17,7 @@
 
 <br/>
 
-**A pop-up window will open and you need to fill in the required details here.**
+* A pop-up window will open and you need to **fill in the required details** here.
 
 <br/>
 

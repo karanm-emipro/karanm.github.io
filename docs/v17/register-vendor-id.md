@@ -6,8 +6,8 @@
 
 <br/>
 
-* **Go to Vendor Central ↣ Configuration ↣ Settings**
-* **Click on Register Your Vendor ID**
+* Go to **Vendor Central ↣ Configuration ↣ Settings**
+* Click on **Register Your Vendor ID**
 
 <br/>
 
