@@ -1,0 +1,1 @@
+{% include_relative amazon-vendor-setup-and-configuration.md %}
