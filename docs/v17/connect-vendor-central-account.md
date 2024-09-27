@@ -17,7 +17,7 @@
 
 <br/>
 
-<h4> A pop-up window will open and you need to fill in the required details here. </h4>
+**A pop-up window will open and you need to fill in the required details here.**
 
 <br/>
 

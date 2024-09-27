@@ -6,7 +6,7 @@ You can use the **Submit ASN** operation to submit shipment confirmations to Ama
 
 <br/>
 
-<h4> How To Process:</h4>
+**How To Process:**
 
 * Navigate to **Vendor Central ↣ Delivery Orders**
 * Open **Your Delivery Order**
@@ -21,6 +21,9 @@ You can use the **Submit ASN** operation to submit shipment confirmations to Ama
 
 <br/>
 
-> [!NOTE]
-> When submitting a shipment confirmation request, the ARN , SSCC number on packages and other package details if package available must be set otherwise amazon will not accept.
+{:.alert-warning}
+>
+> **Note**
+> 
+> * When submitting a shipment confirmation request, the ARN , SSCC number on packages and other package details if package available must be set otherwise amazon will not accept.
 

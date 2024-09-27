@@ -11,7 +11,7 @@ The connector doesn’t directly sync products between amazon & odoo, instead, i
 
 <br/>
 
-<h4> How To Process:</h4>
+**How To Process:**
 
 * Navigate to **Vendor Central ↣ Operations**
 * Select Instance

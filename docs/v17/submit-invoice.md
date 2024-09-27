@@ -6,7 +6,7 @@ You can use the **Submit Invoice** operation to request payment from amazon for 
 
 <br/>
 
-<h4> How To Process:</h4>
+**How To Process:**
 
 * Navigate to **Vendor Central ↣ Invoices**
 * Open **Your Invoice**

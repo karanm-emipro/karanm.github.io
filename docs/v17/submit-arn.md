@@ -6,7 +6,7 @@ The Submit ARN operation is designed for Collect or WePay vendors to submit requ
 
 <br/>
 
-<h4> How To Process:</h4>
+**How To Process:**
 
 * Navigate to **Vendor Central ↣ Delivery Orders**
 * Open **Your Delivery Order**
@@ -20,6 +20,9 @@ The Submit ARN operation is designed for Collect or WePay vendors to submit requ
 
 <br/>
 
-> [!NOTE]
-> When submitting a shipment request, the requested pickup date must be a minimum of two business days after the current date.
+{:.alert-warning}
+>
+> **Note**
+> 
+> * When submitting a shipment request, the requested pickup date must be a minimum of two business days after the current date.
 

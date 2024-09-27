@@ -6,7 +6,7 @@ When we request import orders to Amazon , the system sends a request to the Amaz
 
 <br/>
 
-<h4> How To Process:</h4>
+**How To Process:**
 
 * Navigate to **Vendor Central ↣ Operations**
 * Select Instance
