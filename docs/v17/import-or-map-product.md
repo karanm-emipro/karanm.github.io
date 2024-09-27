@@ -1,12 +1,17 @@
 <h1 align="center"><strong>  Import / Map Products </strong></h1>
 
+<hr>
+
 The connector doesn’t directly sync products between amazon & odoo, instead, it creates a layer above odoo products called amazon products. It will sync amazon products with existing odoo products and if the product is not found, then the system will create a product in odoo based on configuration.
 
-### Import / Map Products
+<h3> Import / Map Products</h3>
+
 * When products are available in Odoo with internal reference and same SKU on Amazon.
 * When there is a product in Amazon, but not in Odoo, and you wish to create a product with the same internal reference as Amazon.
 
-#### How To Process:
+<br/>
+
+<h4> How To Process:</h4>
 
 * Navigate to **Vendor Central ↣ Operations**
 * Select Instance
@@ -14,6 +19,7 @@ The connector doesn’t directly sync products between amazon & odoo, instead, i
 * Choose File
 * Click on **Process**
 
+<br/>
 
 There is one check box.
 

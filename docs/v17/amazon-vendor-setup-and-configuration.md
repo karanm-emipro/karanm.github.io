@@ -1,7 +1,10 @@
 <h1 align="center"><strong> Amazon Vendor Setup and Configuration </strong></h1>
 
+<hr>
 
-### This is the process of registering as an Amazon vendor, connecting to the Amazon vendor central account with your Vendor ID Token and setting up VAT number configuration.
+<h3> This is the process of registering as an Amazon vendor, connecting to the Amazon vendor central account with your Vendor ID Token and setting up VAT number configuration.</h3>
+
+<br/>
 
 * Go to **Vendor Central ↣ Configuration ↣ Settings**
 

@@ -1,9 +1,12 @@
 <h1 align="center"><strong>  Submit Invoice </strong></h1>
 
+<hr>
+
 You can use the **Submit Invoice** operation to request payment from amazon for items shipped.
 
+<br/>
 
-#### How To Process:
+<h4> How To Process:</h4>
 
 * Navigate to **Vendor Central ↣ Invoices**
 * Open **Your Invoice**

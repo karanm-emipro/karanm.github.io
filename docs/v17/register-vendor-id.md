@@ -1,6 +1,10 @@
 <h1 align="center"><strong>  Register Your Vendor ID </strong></h1>
 
-#### As per Amazon’s [Acceptable Use Policy](https://docs.developer.amazonservices.com/en_US/dev_guide/DG_AcceptableUsePolicy.html) and [Data Protection Policy](https://docs.developer.amazonservices.com/en_US/dev_guide/DG_DataProtectionPolicy.html), the seller has to authorize Emipro’s Seller Application in their Seller Central account.
+<hr>
+
+<h3> As per Amazon’s <a href="https://docs.developer.amazonservices.com/en_US/dev_guide/DG_AcceptableUsePolicy.html">Acceptable Use Policy</a> and <a href="https://docs.developer.amazonservices.com/en_US/dev_guide/DG_DataProtectionPolicy.html">Data Protection Policy</a>, the seller has to authorize Emipro’s Seller Application in their Seller Central account. </h3>
+
+<br/>
 
 * **Go to Vendor Central ↣ Configuration ↣ Settings**
 * **Click on Register Your Vendor ID**
@@ -13,7 +17,7 @@
 
 <br/>
 
-### Vendor Registration Form
+<h3> Vendor Registration Form</h3>
 
 <br/>
 

@@ -1,8 +1,12 @@
 <h1 align="center"><strong>  Import Purchase Orders </strong></h1>
 
+<hr>
+
 When we request import orders to Amazon , the system sends a request to the Amazon server for the new orders to be imported.
 
-#### How To Process:
+<br/>
+
+<h4> How To Process:</h4>
 
 * Navigate to **Vendor Central ↣ Operations**
 * Select Instance
@@ -62,6 +66,9 @@ When we request import orders to Amazon , the system sends a request to the Amaz
 <br/>
 
 * The order requisition includes a button for sending an acknowledgement. send an acknowledgement request to Amazon Vendor Central by clicking on the **Send Acknowledgement** button.
+
+<br/>
+
 <div align="center">
   <img src="./images/VC-14.png" alt="">
 </div>

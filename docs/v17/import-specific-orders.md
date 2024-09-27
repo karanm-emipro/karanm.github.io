@@ -1,6 +1,8 @@
 <h1 align="center"><strong>  Import Specific Orders </strong></h1>
 
-#### How To Process:
+<hr>
+
+<h4> How To Process:</h4>
 
 * Navigate to **Vendor Central ↣ Operations**
 * Select Instance

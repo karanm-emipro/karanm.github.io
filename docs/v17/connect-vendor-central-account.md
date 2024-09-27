@@ -1,6 +1,10 @@
 <h1 align="center"><strong>  Connect Your Vendor Central Account </strong></h1>
 
-#### As per Amazon’s [Acceptable Use Policy](https://docs.developer.amazonservices.com/en_US/dev_guide/DG_AcceptableUsePolicy.html) and [Data Protection Policy](https://docs.developer.amazonservices.com/en_US/dev_guide/DG_DataProtectionPolicy.html), the seller has to authorize Emipro’s Seller Application in their Seller Central account.
+<hr>
+
+<h3> As per Amazon’s <a href="https://docs.developer.amazonservices.com/en_US/dev_guide/DG_AcceptableUsePolicy.html">Acceptable Use Policy</a> and <a href="https://docs.developer.amazonservices.com/en_US/dev_guide/DG_DataProtectionPolicy.html">Data Protection Policy</a>, the seller has to authorize Emipro’s Seller Application in their Seller Central account. </h3>
+
+<br/>
 
 * **Go to Vendor Central ↣ Configuration ↣ Settings**
 * **Click on Connect Your Vendor Central Account**
@@ -13,7 +17,7 @@
 
 <br/>
 
-#### A pop-up window will open and you need to fill in the required details here.
+<h4> A pop-up window will open and you need to fill in the required details here. </h4>
 
 <br/>
 
@@ -27,7 +31,7 @@
 
 * **Warehouse:** The User needs to select your warehouse here.
 
- * **Vendor Code:** Enter the vendor code of Amazon Vendor.
+* **Vendor Code:** Enter the vendor code of Amazon Vendor.
 
 * **Pricelist:** The User needs to select your pricelist here.
 

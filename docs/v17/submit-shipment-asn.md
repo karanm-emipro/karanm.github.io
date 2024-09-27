@@ -1,9 +1,12 @@
 <h1 align="center"><strong>  Submit Shipment ASN </strong></h1>
 
+<hr>
+
 You can use the **Submit ASN** operation to submit shipment confirmations to Amazon.
 
+<br/>
 
-#### How To Process:
+<h4> How To Process:</h4>
 
 * Navigate to **Vendor Central ↣ Delivery Orders**
 * Open **Your Delivery Order**
@@ -18,5 +21,6 @@ You can use the **Submit ASN** operation to submit shipment confirmations to Ama
 
 <br/>
 
-> **Note** : When submitting a shipment confirmation request, the ARN , SSCC number on packages and other package details if package available must be set otherwise amazon will not accept.
+> [!NOTE]
+> When submitting a shipment confirmation request, the ARN , SSCC number on packages and other package details if package available must be set otherwise amazon will not accept.
 
