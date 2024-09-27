@@ -11,6 +11,5 @@
 <br/>
 
 <div align="center">
-
-![](./images/VC-16.png)
+  <img src="./images/VC-16.png" alt="">
 </div>

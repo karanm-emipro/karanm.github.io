@@ -12,8 +12,7 @@ You can use the **Submit Invoice** operation to request payment from amazon for 
 <br/>
 
 <div align="center">
-
-![](./images/VC-19.png)
+  <img src="./images/VC-19.png" alt="">
 </div>
 
 <br/>

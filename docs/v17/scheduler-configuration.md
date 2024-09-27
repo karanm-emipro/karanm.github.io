@@ -12,8 +12,7 @@ With the help of the scheduler, the operation will automatically be performed in
 <br/>
 
 <div align="center">
-
-![](./images/VC-6.png)
+  <img src="./images/VC-6.png" alt="">
 </div>
 
 <br/>
@@ -27,8 +26,7 @@ You can set the following schedulers with the help of this connector to automate
 <br/>
 
 <div align="center">
-
-![](./images/VC-7.png)
+  <img src="./images/VC-7.png" alt="">
 </div>
 
 <br/>

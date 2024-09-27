@@ -14,8 +14,7 @@ When we request import orders to Amazon , the system sends a request to the Amaz
 <br/>
 
 <div align="center">
-
-![](./images/VC-9.png)
+  <img src="./images/VC-9.png" alt="">
 </div>
 
 <br/>
@@ -25,8 +24,7 @@ When we request import orders to Amazon , the system sends a request to the Amaz
 <br/>
 
 <div align="center">
-
-![](./images/VC-10.png)
+  <img src="./images/VC-10.png" alt="">
 </div>
 
 <br/>
@@ -36,8 +34,7 @@ When we request import orders to Amazon , the system sends a request to the Amaz
 <br/>
 
 <div align="center">
-
-![](./images/VC-11.png)
+  <img src="./images/VC-11.png" alt="">
 </div>
 
 <br/>
@@ -49,8 +46,7 @@ When we request import orders to Amazon , the system sends a request to the Amaz
 <br/>
 
 <div align="center">
-
-![](./images/VC-12.png)
+  <img src="./images/VC-12.png" alt="">
 </div>
 
 <br/>
@@ -60,16 +56,14 @@ When we request import orders to Amazon , the system sends a request to the Amaz
 <br/>
 
 <div align="center">
-
-![](./images/VC-13.png)
+  <img src="./images/VC-13.png" alt="">
 </div>
 
 <br/>
 
 * The order requisition includes a button for sending an acknowledgement. send an acknowledgement request to Amazon Vendor Central by clicking on the **Send Acknowledgement** button.
 <div align="center">
-
-![](./images/VC-14.png)
+  <img src="./images/VC-14.png" alt="">
 </div>
 
 <br/>
@@ -82,6 +76,5 @@ When we request import orders to Amazon , the system sends a request to the Amaz
 <br/>
 
 <div align="center">
-
-![](./images/VC-15.png)
+  <img src="./images/VC-15.png" alt="">
 </div>

@@ -13,8 +13,7 @@ You can use the **Submit ASN** operation to submit shipment confirmations to Ama
 <br/>
 
 <div align="center">
-
-![](./images/VC-18.png)
+  <img src="./images/VC-18.png" alt="">
 </div>
 
 <br/>

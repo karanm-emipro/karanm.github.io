@@ -22,8 +22,7 @@ There is one check box.
 <br/>
 
 <div align="center">
-
-![](./images/VC-8.png)
+  <img src="./images/VC-8.png" alt="">
 </div>
 
 <br/>

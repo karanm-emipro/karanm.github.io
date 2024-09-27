@@ -8,7 +8,7 @@
 <br/>
 
 <div align="center">
-  <img src="./images/VC-1.png" alt="Amazon Vendor Central Settings">
+  <img src="./images/VC-1.png" alt="">
 </div>
 
 <br/>

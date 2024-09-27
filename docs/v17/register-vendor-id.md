@@ -8,8 +8,7 @@
 <br/>
 
 <div align="center">
-
-![](./images/VC-2.png)
+  <img src="./images/VC-2.png" alt="">
 </div>
 
 <br/>
@@ -19,8 +18,7 @@
 <br/>
 
 <div align="center">
-
-![](./images/VC-3.png)
+  <img src="./images/VC-3.png" alt="">
 </div>
 
 <br/>

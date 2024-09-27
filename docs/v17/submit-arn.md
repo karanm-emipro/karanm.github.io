@@ -12,8 +12,7 @@ The Submit ARN operation is designed for Collect or WePay vendors to submit requ
 <br/>
 
 <div align="center">
-
-![](./images/VC-17.png)
+  <img src="./images/VC-17.png" alt="">
 </div>
 
 <br/>
