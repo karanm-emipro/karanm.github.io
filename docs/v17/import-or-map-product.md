@@ -1,4 +1,4 @@
-# <h1 align="center"> Import / Map Products </h2>
+# <h1 align="center"> Import / Map Products </h1>
 
 The connector doesn’t directly sync products between amazon & odoo, instead, it creates a layer above odoo products called amazon products. It will sync amazon products with existing odoo products and if the product is not found, then the system will create a product in odoo based on configuration.
 
@@ -23,7 +23,7 @@ There is one check box.
 
 <div align="center">
 
-![import-or-map-product](images/VC-8.png)
+![import-or-map-product](./images/VC-8.png)
 </div>
 
 <br/>

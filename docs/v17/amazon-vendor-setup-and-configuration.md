@@ -1,4 +1,6 @@
-# <h1 align="center"> Amazon Vendor Setup and Configuration </h1>
+# 
+
+<h1 align="center"><strong> Amazon Vendor Setup and Configuration </strong></h1>
 
 
 ### This is the process of registering as an Amazon vendor, connecting to the Amazon vendor central account with your Vendor ID Token and setting up VAT number configuration.
@@ -9,7 +11,7 @@
 
 <div align="center">
 
-![vendor-central-config](images/VC-1.png)
+![vendor-central-config](./images/VC-1.png)
 </div>
 
 <br/>

@@ -9,7 +9,7 @@
 
 <div align="center">
 
-![connect-vendor-central-account](images/VC-4.png)
+![connect-vendor-central-account](./images/VC-4.png)
 </div>
 
 <br/>
@@ -20,7 +20,7 @@
 
 <div align="center">
 
-![connect-vendor-central-account-form](images/VC-5.png)
+![connect-vendor-central-account-form](./images/VC-5.png)
 </div>
 
 <br/>

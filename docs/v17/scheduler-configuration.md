@@ -1,4 +1,4 @@
-# <h1 align="center"> Scheduler Configuration </h2>
+# <h1 align="center"> Scheduler Configuration </h1>
 
 #### What is a scheduler and its usage ?
 
@@ -13,7 +13,7 @@ With the help of the scheduler, the operation will automatically be performed in
 
 <div align="center">
 
-![scheduler-configuration](images/VC-6.png)
+![scheduler-configuration](./images/VC-6.png)
 </div>
 
 <br/>
@@ -28,7 +28,7 @@ You can set the following schedulers with the help of this connector to automate
 
 <div align="center">
 
-![scheduler-configuration-form](images/VC-7.png)
+![scheduler-configuration-form](./images/VC-7.png)
 </div>
 
 <br/>

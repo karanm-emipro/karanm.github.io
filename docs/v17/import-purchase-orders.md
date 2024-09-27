@@ -1,4 +1,4 @@
-# <h1 align="center"> Import Purchase Orders </h2>
+# <h1 align="center"> Import Purchase Orders </h1>
 
 When we request import orders to Amazon , the system sends a request to the Amazon server for the new orders to be imported.
 
@@ -15,7 +15,7 @@ When we request import orders to Amazon , the system sends a request to the Amaz
 
 <div align="center">
 
-![import-or-map-product](images/VC-9.png)
+![import-or-map-product](./images/VC-9.png)
 </div>
 
 <br/>
@@ -26,7 +26,7 @@ When we request import orders to Amazon , the system sends a request to the Amaz
 
 <div align="center">
 
-![import-or-map-product](images/VC-10.png)
+![import-or-map-product](./images/VC-10.png)
 </div>
 
 <br/>
@@ -37,7 +37,7 @@ When we request import orders to Amazon , the system sends a request to the Amaz
 
 <div align="center">
 
-![import-or-map-product](images/VC-11.png)
+![import-or-map-product](./images/VC-11.png)
 </div>
 
 <br/>
@@ -50,7 +50,7 @@ When we request import orders to Amazon , the system sends a request to the Amaz
 
 <div align="center">
 
-![import-or-map-product](images/VC-12.png)
+![import-or-map-product](./images/VC-12.png)
 </div>
 
 <br/>
@@ -61,7 +61,7 @@ When we request import orders to Amazon , the system sends a request to the Amaz
 
 <div align="center">
 
-![import-or-map-product](images/VC-13.png)
+![import-or-map-product](./images/VC-13.png)
 </div>
 
 <br/>
@@ -69,7 +69,7 @@ When we request import orders to Amazon , the system sends a request to the Amaz
 * The order requisition includes a button for sending an acknowledgement. send an acknowledgement request to Amazon Vendor Central by clicking on the **Send Acknowledgement** button.
 <div align="center">
 
-![import-or-map-product](images/VC-14.png)
+![import-or-map-product](./images/VC-14.png)
 </div>
 
 <br/>
@@ -83,5 +83,5 @@ When we request import orders to Amazon , the system sends a request to the Amaz
 
 <div align="center">
 
-![import-or-map-product](images/VC-15.png)
+![import-or-map-product](./images/VC-15.png)
 </div>

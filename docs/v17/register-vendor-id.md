@@ -9,7 +9,7 @@
 
 <div align="center">
 
-![vendor-central-register-vendor-id](images/VC-2.png)
+![vendor-central-register-vendor-id](./images/VC-2.png)
 </div>
 
 <br/>
@@ -20,7 +20,7 @@
 
 <div align="center">
 
-![vendor-central-registration-form](images/VC-3.png)
+![vendor-central-registration-form](./images/VC-3.png)
 </div>
 
 <br/>
