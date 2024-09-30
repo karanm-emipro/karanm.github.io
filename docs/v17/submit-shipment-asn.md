@@ -21,7 +21,7 @@ You can use the **Submit ASN** operation to submit shipment confirmations to Ama
 
 <br/>
 
-{:.alert-warning}
+{:.alert-info}
 >
 > **Note**
 > 

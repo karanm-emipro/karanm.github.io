@@ -20,7 +20,7 @@ The Submit ARN operation is designed for Collect or WePay vendors to submit requ
 
 <br/>
 
-{:.alert-warning}
+{:.alert-info}
 >
 > **Note**
 > 
