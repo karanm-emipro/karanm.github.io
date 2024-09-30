@@ -1,7 +1,8 @@
 ---
 is_index: True
 ---
-- [Submit Invoice](submit-invoice.md)
+ 
+- [Overview](overview.md)
 - {: .has_child} [Amazon Vendor Setup and Configuration](amazon-vendor-setup-and-configuration.md)
   - [Register Your Vendor ID](register-vendor-id.md)
   - [Connect Your Vendor Central Account](connect-vendor-central-account.md)
